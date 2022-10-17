@@ -1,4 +1,4 @@
-import Footer from "./footer";
+import Footer from "./app_footer";
 import Body from "./home_body";
 import Header from "./home_header";
 
