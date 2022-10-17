@@ -5,13 +5,11 @@ import Header from "./home_header";
 function Homepage() {
     return ( 
         <div>
-
         <Header/>
         <Body/>
         <Footer/>
         </div>
-
-     );
+    );
 }
 
 export default Homepage

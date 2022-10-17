@@ -6,7 +6,7 @@ import Homepage from './Components/homepage';
 function App() {
   return (
     <div className="App">
-<Homepage/>
+      <Homepage/>
     </div>
   );
 }
